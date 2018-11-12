@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Vanilla cake",
+      "price": "100"
+    },
+    {
+      "id": 2,
+      "name": "Apple cake",
+      "price": "100"
+    },
+    {
+      "id": 3,
+      "name": "Carrot cake",
+      "price": "100"
+    },
+    {
+      "id": 6,
+      "name": "Chocolate cake",
+      "price": "100"
+    }
+  ]
+}
